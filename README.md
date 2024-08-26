@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently deepening my skills in **MERN Stack, Blockchain Development, DevOps**
 
-- 💼 All of my projects are available at [https://github.com/shamail-abbas](https://github.com/shamail-abbas)
+- 💼 All of my projects are available at [https://github.com/shamail-abbas](https://github.com/shamailabbas)
 
 - 💬 Ask me about **MERN, Blockchain, Solidity, Node.js, React, DevOps**
 
 - 📫 How to reach me **shamailabbas61@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/shamail-abbas/](https://www.linkedin.com/in/shamail-abbas/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/shamail-abbas/](https://www.linkedin.com/in/shamail-abbas-743691130)
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
