@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shamail Abbas</h1>
-<h3 align="center">A Passionate Full Stack Blockchain Developer from Pakistan</h3>
+<h3 align="center">A passionate Enigneer from Pakistan, specialized in MERN Stack and DevOps, with growing expertise in Blockchain Development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shamail-abbas&label=Profile%20views&color=0e75b6&style=flat" alt="shamail-abbas" /> </p>
 
-- 🌱 I’m currently deepening my skills in **MERN Stack, Blockchain Development, DevOps**
+- 🌱 I’m an expert in **MERN Stack** and **DevOps**, while also expanding my knowledge in **Blockchain Development** to keep up with its evolving landscape.
 
 - 💼 All of my projects are available at [https://github.com/shamail-abbas](https://github.com/shamailabbas)
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
-  <a href="https://www.linkedin.com/in/shamail-abbas/" target="_blank">
+  <a href="https://www.linkedin.com/in/shamail-abbas-743691130/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="mailto:shamailabbas61@gmail.com">
