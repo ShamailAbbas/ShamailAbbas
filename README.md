@@ -1,122 +1,97 @@
-<h1 align="center">Hi 👋, I'm Shamail Abbas</h1>
-<h3 align="center">A passionate Full-Stack Engineer from Pakistan, specialized in MERN Stack, Go/Gin, DevOps, and AI/ML, with growing expertise in Blockchain Development.</h3>
+<h1 align="center">👋 Hi, I'm Shamail Abbas</h1>
+<h3 align="center">Senior DevOps & Cloud Engineer | Infrastructure Automation | Cloud-Native Architect | 8+ Years of Experience</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shamail-abbas&label=Profile%20views&color=0e75b6&style=flat" alt="shamail-abbas" />
+  <img src="https://komarev.com/ghpvc/?username=shamail-abbas&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/shamailabbas?label=Followers&style=social" alt="GitHub followers" />
 </p>
 
+---
+
 ## 🚀 About Me
 
-- 🔭 I'm currently working on **cutting-edge AI/ML applications** and **decentralized blockchain solutions**
-- 🌱 Expert in **MERN Stack**, **Go/Gin**, and **DevOps**, while expanding knowledge in **Generative AI** and **Blockchain Development**
-- 🤖 Passionate about **Large Language Models**, **Machine Learning**, and **AI-powered applications**
-- ⚡ Building scalable microservices with **Go** and **Gin framework** for high-performance backends
-- 🔗 Developing smart contracts with **Solidity** and exploring **DeFi protocols**
-- ☁️ Experienced in **cloud-native architectures** and **container orchestration**
-- 💼 All of my projects are available at [GitHub](https://github.com/shamailabbas)
-- 💬 Ask me about **MERN, Go/Gin, AI/ML, Blockchain, Solidity, Node.js, React, DevOps, Generative AI**
-- 📫 Reach me at **shamailabbas61@gmail.com**
-- 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/shamail-abbas-743691130)
+I'm a **Senior DevOps Engineer** with over **8 years of hands-on experience** designing, automating, and optimizing **cloud-native, highly available, and secure production systems**.  
+I specialize in **AWS, Kubernetes, Terraform, and CI/CD pipelines**, blending my background in **software engineering and AI** to deliver scalable infrastructure and data-driven solutions.
 
-## 🛠️ Tech Stack & Expertise
+- 🧩 **Core Focus:** DevOps, Cloud Architecture, Infrastructure as Code, Automation, and Observability  
+- ☁️ **Cloud Platforms:** AWS, Azure, GCP — experienced in hybrid and multi-cloud environments  
+- ⚙️ **Automation & IaC:** Terraform, Ansible, CloudFormation, Helm, and GitOps  
+- 🧱 **Containers & Orchestration:** Docker, Kubernetes, EKS, AKS, GKE  
+- 🔄 **CI/CD Expertise:** Jenkins, GitHub Actions, GitLab CI/CD, ArgoCD  
+- 📊 **Monitoring & Logging:** Prometheus, Grafana, Loki, ELK Stack, Fluent Bit  
+- 🔐 **Security:** Secrets Management, IAM Hardening, SSL/TLS, Compliance Automation  
+- 🧠 **Extras:** MERN Stack,Python, Flask, Go/Gin, AI/ML pipelines 
 
-### 💻 Programming Languages
+💼 All of my projects are available on [GitHub](https://github.com/shamailabbas)  
+📄 View my professional background on [LinkedIn](https://www.linkedin.com/in/shamail-abbas-743691130)  
+📫 Reach me at **shamailabbas61@gmail.com**
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### ☁️ Cloud & DevOps
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="aws logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="gcp logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="40" alt="solidity logo" />
-</div>
-
-### 🌐 Frontend Technologies
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="tailwind logo" />
-</div>
-
-### ⚙️ Backend & APIs
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" height="40" alt="gin logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="graphql logo" />
-</div>
-
-### 🗄️ Databases
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-</div>
-
-### 🤖 AI/ML & Data Science
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sklearn" height="40" alt="scikit-learn logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo" />
-</div>
-
-### ☁️ DevOps & Cloud
-<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="aws logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="gcp logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" alt="jenkins logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo" />
 </div>
 
-### 🔗 Blockchain & Web3
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="40" alt="solidity logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ethereum" height="40" alt="ethereum logo" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/MetaMask/brand-resources/master/SVG/metamask-fox.svg" height="40" alt="metamask logo" />
-</div>
+### 🔧 CI/CD & Infrastructure Automation
+- Terraform • Ansible • Helm • ArgoCD  
+- GitHub Actions • GitLab CI/CD • Jenkins  
+- Docker Compose • Packer • Vault
 
-## 🌟 Current Focus Areas
+### 🧠 Programming & Scripting
+- Go (Gin), Node.js (Express), Python, Bash  
+- TypeScript, JavaScript, YAML, JSON
 
-- 🤖 **Generative AI & LLMs**: Building applications with GPT, Claude, and custom fine-tuned models
-- 🔄 **Microservices Architecture**: Designing scalable systems with Go/Gin and Node.js
-- 🌐 **Web3 Development**: Creating DApps and smart contracts for DeFi protocols
-- 📊 **MLOps**: Implementing end-to-end machine learning pipelines
-- ☁️ **Cloud-Native Solutions**: Kubernetes orchestration and serverless architectures
+### 🗄️ Databases & Caching
+- PostgreSQL • MySQL • MongoDB • Redis  
+- RDS • DynamoDB • Aurora  
 
-## 📞 Connect with me:
+### 📈 Monitoring & Observability
+- Prometheus • Grafana • Loki • ELK Stack  
+- CloudWatch • Fluent Bit • OpenTelemetry  
+
+### 🧩 Others
+- GitOps • SRE Practices • Cost Optimization  
+- Microservices • Serverless • Cloud Security  
+
+---
+
+## 🌟 Highlight Projects
+
+- 🏗️ **Production-Grade EKS Deployment with Terraform**
+  - Automated multi-environment AWS EKS setup using Terraform with remote S3 backend and DynamoDB locking.  
+  - Implemented monitoring stack (Prometheus, Grafana, Loki) and CI/CD integration with GitHub Actions.
+
+- 🔐 **Secure Infrastructure as Code Framework**
+  - Built a reusable Terraform module library enforcing IAM least privilege, versioned S3 state, and VPC isolation.  
+  - Integrated CloudTrail, GuardDuty, and Config for compliance.
+
+- 🚀 **End-to-End DevOps for Fintech Platform**
+  - Containerized microservices (Node.js, Go) and deployed via Kubernetes with blue/green strategy.  
+  - Automated delivery with Jenkins pipelines and Helm charts.
+
+- 📊 **Centralized Log Aggregation (ELK + Fluent Bit)**
+  - Designed and implemented scalable ELK stack for multi-application log ingestion and visualization.  
+  - Integrated with AWS S3 and CloudWatch for retention and analytics.
+
+---
+
+## 📞 Connect With Me
+
 <div align="left">
   <a href="https://www.linkedin.com/in/shamail-abbas-743691130/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
@@ -129,30 +104,25 @@
   </a>
 </div>
 
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shamailabbas&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=true" height="160" alt="stats graph" />
-  <img src="https://streak-stats.demolab.com?user=shamailabbas&locale=en&mode=daily&theme=rose_pine&hide_border=true&border_radius=5" height="160" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shamailabbas&show_icons=true&theme=rose_pine&include_all_commits=true&hide_border=true" height="160" alt="GitHub stats" />
+  <img src="https://streak-stats.demolab.com?user=shamailabbas&theme=rose_pine&hide_border=true" height="160" alt="GitHub streak" />
 </div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shamailabbas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=rose_pine&hide_border=true" height="160" alt="languages graph" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shamailabbas&theme=react-dark&hide_border=true" height="160" alt="activity graph" />
-</div>
-
-## 🏆 GitHub Achievements
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shamailabbas&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1" alt="trophy graph" />
-</div>
-
-## 💡 Fun Facts
-- 🎯 I believe in writing clean, maintainable code that scales
-- 🌱 Always learning and staying updated with the latest tech trends
-- 🤝 Open to collaborating on innovative projects and open-source contributions
-- 🎨 I enjoy exploring the intersection of technology and creativity
 
 ---
+
+## 💡 Fun Facts
+- 🧠 I automate everything that can be automated — from infrastructure to CI/CD pipelines  
+- 🌍 I believe in clean, secure, and cost-efficient cloud design  
+- 🤝 Passionate about mentoring and open-source collaboration  
+- ⚡ Always learning — Cloud, AI, and emerging DevOps trends  
+
+---
+
 <div align="center">
-  <i>⭐️ From [shamailabbas](https://github.com/shamailabbas) with ❤️</i>
+  <i>⭐️ From <a href="https://github.com/shamailabbas">shamailabbas</a> with ❤️</i>
 </div>
