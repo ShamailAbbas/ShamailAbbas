@@ -32,7 +32,7 @@ I specialize in **AWS, Kubernetes, Terraform, and CI/CD pipelines**, blending my
 
 ### ☁️ Cloud & DevOps
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="aws logo" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="40" alt="aws" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo" />
   <img width="12" />
@@ -45,6 +45,19 @@ I specialize in **AWS, Kubernetes, Terraform, and CI/CD pipelines**, blending my
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" alt="jenkins logo" />
+    <!-- Monitoring & Logging -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="prometheus" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana" />
+  <img width="12" />
+
+  <!-- ELK Stack -->
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/elasticsearch.svg" height="40" alt="elasticsearch" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/logstash.svg" height="40" alt="logstash" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/kibana.svg" height="40" alt="kibana" />
+
 </div>
 
 ### 🔧 CI/CD & Infrastructure Automation
