@@ -93,10 +93,6 @@ I specialize in **AWS, Kubernetes, Terraform, and CI/CD pipelines**, blending my
   - Built a reusable Terraform module library enforcing IAM least privilege, versioned S3 state, and VPC isolation.  
   - Integrated CloudTrail, GuardDuty, and Config for compliance.
 
-- 🚀 **End-to-End DevOps for Fintech Platform**
-  - Containerized microservices (Node.js, Go) and deployed via Kubernetes with blue/green strategy.  
-  - Automated delivery with Jenkins pipelines and Helm charts.
-
 - 📊 **Centralized Log Aggregation (ELK + Fluent Bit)**
   - Designed and implemented scalable ELK stack for multi-application log ingestion and visualization.  
   - Integrated with AWS S3 and CloudWatch for retention and analytics.
