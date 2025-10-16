@@ -117,16 +117,7 @@ I specialize in **AWS, Kubernetes, Terraform, and CI/CD pipelines**, blending my
   </a>
 </div>
 
----
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shamailabbas&show_icons=true&theme=rose_pine&include_all_commits=true&hide_border=true" height="160" alt="GitHub stats" />
-  <img src="https://streak-stats.demolab.com?user=shamailabbas&theme=rose_pine&hide_border=true" height="160" alt="GitHub streak" />
-</div>
-
----
 
 ## 💡 Fun Facts
 - 🧠 I automate everything that can be automated — from infrastructure to CI/CD pipelines  
